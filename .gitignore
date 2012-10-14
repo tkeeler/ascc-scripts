@@ -25,3 +25,4 @@ doc/
 *.un~
 Session.vim
 .netrwhist
+accesskeys.*
